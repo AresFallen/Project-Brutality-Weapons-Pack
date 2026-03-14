@@ -1,8 +1,8 @@
 FULL TRANSPARENCY:
 
-THIS MOD WAS FIXED FOR THE LATEST PB STAGING by DOC's AI AGENTS.  
+THIS MOD WAS FIXED FOR THE LATEST PB STAGING by DOC's A.I. AGENT.  
 
-AGENT.MD FILE INCLUDED SO ANYONE CAN USE THEM IN THE FUTURE.
+AGENT.MD FILE INCLUDED SO ANYONE CAN USE IT.
 
 [Click on the green "Code" button, Click to Download Zip, then load the zip as a pk3 mod]
 -------------------------------------
