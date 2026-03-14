@@ -42,6 +42,7 @@ TEAM MEMBERS:
 - Warcarlsson
 - Doc
 - JhulkerCraft
+- Ares
 - Runner
 -----------------
 Originally assembled by RENEGADE ANDROiD using Insanity's Nightmare as a base combined with Demon-Tech, Gadgets & Equipments (GEM) & Fire and Ice Power Fantasy, then Project Survival and every other functioning weapon addon we could find.  Most of these weapons have been around the Project Brutality Discord and former Brutal Repository over these previous years.  BeefRice aka LovecraftNeko has implemented complex systems that help make this mod the complete & refined package that it is today.  
